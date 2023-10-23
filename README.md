@@ -2,6 +2,8 @@
 #### I am Hirusha Wijayawardhana
 #### Computer Engineering Undergraduate
 
+"I'm a dedicated Computer Engineering undergraduate with a strong passion for tackling new challenges and staying at the forefront of technology. I thrive on learning and adapting to emerging technologies, and I'm not afraid of hard work. Hoping to be a explore of new horizons."
+
 ## Skills:
 💻 JAVA | PYTHON | C++
 
