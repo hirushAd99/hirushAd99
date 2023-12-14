@@ -7,7 +7,7 @@
 ## Skills:
 💻 JAVA | PYTHON | C++
 
-👨‍💻 NODE JS | HTML | CSS | PHP
+👨‍💻 NODE JS | HTML | CSS | PHP | REACT
 
 
 
